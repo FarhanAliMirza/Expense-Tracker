@@ -1,6 +1,7 @@
 # Expense Tracker
 
 A simple expense tracker built using ReactJS.
+Check it out here : https://expense-tracker-farhan.vercel.app
 
 ## Features
 
